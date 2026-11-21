@@ -1,0 +1,6 @@
+{
+  "name": "Divya Drusti Opticals",
+  "description": "Complete Optical Clinic and Consultancy Management System with free patient registration, eye examinations, appointments, inventory, and GST billing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
